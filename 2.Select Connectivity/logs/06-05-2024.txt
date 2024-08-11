@@ -1,0 +1,1 @@
+09:53:19\n\t`area` table insert error\tUnknown column 'Co' in 'field list'\n-------------------------------------------- \n\n09:53:35\n\t`area` table insert error\tTable 'form_select.ara' doesn't exist\n-------------------------------------------- \n\n09:54:02\n\tarea table insert error\tUnknown column 'Co' in 'field list'\n-------------------------------------------- \n\n

@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+input{
+    border: 1px solid rgb(21, 0, 0);
+    border-radius: 5px;
+}
+
+#form{
+    background-image: url("./image/bg-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -670px;
+    border: 1px solid rgb(108, 108, 108); 
+    border-radius: 20px;
+    height: 84vh;
+    width: 20%;
+    padding: 20px 70px;
+    margin: 5vh auto;
+}
+
+.error{
+    color: red;
+}
